@@ -2,6 +2,19 @@
 
 이환(NTE)의 폭탄 이상 해체 콘텐츠를 Unreal Engine으로 구현한 포트폴리오용 프로토타입입니다. 핵심 플레이 루프를 검증하는 것을 목적으로 합니다.
 
+## 다운로드
+
+- **바로 플레이하기:** [Windows v0.2 실행 빌드](https://github.com/tndudss/nte-bomb-defuse-prototype/releases/tag/v0.2)에서 `NTE_BombDefuse_Prototype_v0.2.zip`을 다운로드하세요. Unreal Engine 에디터 설치가 필요하지 않습니다.
+- **에디터에서 열기:** 이 저장소를 클론하거나 **Code → Download ZIP**으로 소스를 다운로드하세요. Unreal Engine 5.7.4가 필요합니다.
+
+### Windows 실행 빌드 사용 방법
+
+1. 릴리스의 **Assets**에서 실행용 ZIP을 내려받습니다.
+2. ZIP 전체를 새 폴더에 압축 해제합니다.
+3. `NTE_BombDefuse_Prototype_v0.2.exe`를 실행합니다.
+
+EXE와 함께 `Engine/`, `BombDefuse_Prototype/` 폴더를 유지해야 합니다. Visual C++ 런타임이 필요한 경우 동봉된 `Engine/Extras/Redist/en-us/vc_redist.x64.exe`를 사용하세요.
+
 ## 개발 환경
 
 - Unreal Engine **5.7.4** (`.uproject` 엔진 연결: 5.7)

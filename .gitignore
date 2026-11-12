@@ -1,0 +1,31 @@
+# Unreal generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/**/FileOpenOrder/
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+
+# Local editor and IDE files
+.vs/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+Content/Developers/
+Content/Collections/
+
+# Packaged builds and archives
+PackagedBuilds/
+Releases/
+*.zip
+*.7z
+
+# Local credentials
+.env
+.env.*
+!.env.example

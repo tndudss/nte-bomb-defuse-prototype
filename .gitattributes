@@ -1,0 +1,7 @@
+* text=auto
+*.uasset -text -diff -merge
+*.umap -text -diff -merge
+*.png -text
+*.jpg -text
+*.wav -text
+*.mp3 -text

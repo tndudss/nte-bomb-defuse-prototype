@@ -19,11 +19,14 @@
 
 ## 실행 방법
 
-1. 이 저장소를 클론합니다.
-2. Unreal Engine 5.7.4에서 `BombDefuse_Prototype.uproject`를 엽니다.
-3. 시작 맵인 `Content/Maps/L_Main.umap`에서 Play를 실행합니다.
+1. Unreal Engine 5.7.4를 설치합니다.
+2. 이 저장소를 클론하거나 GitHub의 **Code → Download ZIP**으로 내려받아 압축을 해제합니다.
+3. Unreal Editor의 프로젝트 브라우저에서 **Browse(찾아보기)**를 선택하고 `BombDefuse_Prototype.uproject`를 엽니다. 파일 연결이 설정돼 있다면 `.uproject`를 더블 클릭해도 됩니다.
+4. 시작 맵인 `Content/Maps/L_Main.umap`에서 Play를 실행합니다.
 
 첫 실행 시 셰이더와 에셋 캐시 생성에 시간이 걸릴 수 있습니다.
+
+맵, Blueprint, UI, 텍스처와 외부 액터/오브젝트 데이터를 포함한 편집 가능한 소스 프로젝트입니다. Blueprint 기반이므로 별도 C++ 소스 빌드는 필요하지 않습니다. 프로젝트에서 활성화한 `ModelingToolsEditorMode`는 엔진에 포함된 에디터 플러그인입니다.
 
 ## 프로젝트 구조
 

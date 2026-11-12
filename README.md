@@ -8,7 +8,7 @@
 
 | 용도 | 링크 |
 | --- | --- |
-| Windows 실행 파일 다운로드 | [Windows v0.2 릴리스](https://github.com/tndudss/nte-bomb-defuse-prototype/releases/tag/v0.2) |
+| Windows 실행 파일 다운로드 | [Windows v0.2 릴리스](https://github.com/tndudss/portfolio-nte-bomb-defuse-prototype/releases/tag/v0.2) |
 | Unreal 에디터용 소스 | 이 저장소를 클론하거나 **Code → Download ZIP** |
 
 ### Windows에서 실행

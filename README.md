@@ -4,11 +4,14 @@
 
 이환(NTE)의 폭탄 이상 해체 콘텐츠를 참고해 Unreal Engine으로 구현한 개인 포트폴리오용 프로토타입입니다. 이 저장소는 에디터용 소스와 Windows v0.2 실행 빌드를 제공합니다.
 
+## 시연 영상
+
+https://github.com/user-attachments/assets/9d5374e8-468f-4740-8a48-2fbce33cdcb0
+
 ## 플레이 및 다운로드
 
 | 용도 | 링크 |
 | --- | --- |
-| 시연 영상 | [프로토타입 시연 영상 보기](https://drive.google.com/file/d/1XgXvnP19wBvSKv4kSD2WExHh6adKKtfb/view) |
 | Windows 실행 파일 다운로드 | [Windows v0.2 릴리스](https://github.com/tndudss/portfolio-nte-bomb-defuse-prototype/releases/tag/v0.2) |
 | Unreal 에디터용 소스 | 이 저장소를 클론하거나 **Code → Download ZIP** |
 

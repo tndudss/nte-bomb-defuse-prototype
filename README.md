@@ -6,7 +6,7 @@
 
 ## 시연 영상
 
-https://github.com/user-attachments/assets/9d5374e8-468f-4740-8a48-2fbce33cdcb0
+https://github.com/user-attachments/assets/eaf07a2e-b188-4e4e-bba8-69f2dc13fd2f
 
 ## 플레이 및 다운로드
 

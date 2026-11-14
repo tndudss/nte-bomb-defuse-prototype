@@ -8,6 +8,7 @@
 
 | 용도 | 링크 |
 | --- | --- |
+| 시연 영상 | [프로토타입 시연 영상 보기](https://drive.google.com/file/d/1XgXvnP19wBvSKv4kSD2WExHh6adKKtfb/view) |
 | Windows 실행 파일 다운로드 | [Windows v0.2 릴리스](https://github.com/tndudss/portfolio-nte-bomb-defuse-prototype/releases/tag/v0.2) |
 | Unreal 에디터용 소스 | 이 저장소를 클론하거나 **Code → Download ZIP** |
 
